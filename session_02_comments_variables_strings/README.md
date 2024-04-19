@@ -1,1 +1,1 @@
-# Comments Variables and Strings in Python
+# Comments, Variables and Strings in Python
